@@ -9,4 +9,4 @@ For training, we started with the noisy speech signal (X), the corresponding noi
 
 On the validation set I managed an average SNR of 10 dB, which is decent for a fairly simpler model. 
 
-Will be uploading the dataset soon, so that you can listen and enjoy the recovered signals.
+Will be uploading the dataset soon, so that you can listen and enjoy the recovered signals. Till then try to play around with the code.
